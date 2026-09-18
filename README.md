@@ -1,16 +1,15 @@
 # PF Lab 03 - Introduction to GitHub and C Language
 
-* **Name:** M.Khizr[span_0](start_span)[span_0](end_span)
+* **Name:** M.Khizr
 * **Roll Number:** 26k-0574
-* **Lab Title:** Introduction to GitHub and C Programming Language[span_1](start_span)[span_1](end_span)
-
+* **Lab Title:** Introduction to GitHub and C Programming Language
 ## Introduction
-This repository contains the work for Programming Fundamentals Lab 03[span_2](start_span)[span_2](end_span). It covers basic GitHub workflows including repository configuration, branching, commits, and pull requests[span_3](start_span)[span_3](end_span), alongside fundamental C programming concepts[span_4](start_span)[span_4](end_span).
+This repository contains the work for Programming Fundamentals Lab 03[span_2]. It covers basic GitHub workflows including repository configuration, branching, commits, and pull requests[span_3], alongside fundamental C programming concepts.
 
 ## Objectives
-1. Set up and configure a GitHub repository with a custom README file[span_5](start_span)[span_5](end_span).
+1. Set up and configure a GitHub repository with a custom README file.
 2. Practice Git version control using branches, commits, and Pull Requests.
-3. Document core C language concepts using Markdown syntax[span_6](start_span)[span_6](end_span).
+3. Document core C language concepts using Markdown syntax[span_6].
 
 ## C Topics Covered in Lab 03
 * Basic Data Types (`int`, `float`, `double`, `char`, `bool`, `void`)[span_7](start_span)[span_7](end_span)
